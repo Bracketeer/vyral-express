@@ -1,0 +1,18 @@
+---
+name: 'Jay Day'
+agent: 'Realtor'
+company: 'Jay Day and The Day Home Team'
+company-brand:
+address: '15 E Main Street, Suite 118 Westminster, MD 21157'
+email: 'Info@DayHomeTeam.com'
+phone: '240-566-5629'
+homeval: http://www.dayhometeam.com/home-evaluation.php
+homesearch: http://www.dayhometeam.com/all-listings.php
+header-logo: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/email+template+images/001_LaborDay.png'
+market: 'Maryland and Southern PA'
+offerstaging: true
+freestaging: false
+providephotography: false
+single-agent: false
+version-A: false
+---

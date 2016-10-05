@@ -1,0 +1,20 @@
+---
+name: 'Cal Carter'
+agent: 'Realtor'
+company: 'The GulfShoresLife.com Team'
+company-brand: 'Keller Williams Realty – Alabama Gulf Coast'
+address: 'Fairhope, AL and Orange Beach, AL'
+email: 'info@gulfshorelife.com'
+email2:
+phone: '251-923-2322'
+homeval: http://calcarter.boldleads.com/?source=vyral
+homesearch: http://www.gulfshoreslife.com/buying-gulf-shores.php
+header-logo: 'https://s3.amazonaws.com/vyralmarketing/Cal+Carter/email+assets/cal-email-header.png'
+market: 'Gulf Shores'
+offerstaging: true
+freestaging: false
+version-A: false
+---
+{{> header}}
+{{> 1A }}
+{{> footer}}

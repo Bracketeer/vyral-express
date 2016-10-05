@@ -1,0 +1,16 @@
+---
+agent: '#'
+company: '#'
+company-brand: '#'
+address: '#'
+email: '#'
+phone: '#'
+homeval: '#'
+homesearch: "#"
+header-image: '#'
+market: '#'
+
+---
+{{> header}}
+{{> 1A }}
+{{> footer}}
