@@ -1,12 +1,14 @@
 <row>
 	<columns class="footer" small="12" large="12">
 		<p style="text-align: center; color: #5c5c5c">
-			{{name}} | {{company}}<br>
+			{{name}}{{#if company}} | {{company}}{{/if}}<br>
 			{{#if company-brand}}
 				{{company-brand}}<br>
 			{{else}}
 			{{/if}}
+				{{#if address}}
 			{{address}}<br>
+			{{/if}}
 			{{phone}} | <a href="mailto:{{email}}">{{email}}</a>{{#if email2}} | <a href="mailto:{{email2}}">{{email2}}</a>{{/if}}
 		</p>
 	</columns>
